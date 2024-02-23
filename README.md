@@ -9,5 +9,5 @@
 
 
 
-Air Pollution Image Dataset from India and Nepal [Data set]. 
+**Dataset used:** Air Pollution Image Dataset from India and Nepal. 
 Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
