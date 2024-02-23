@@ -5,7 +5,7 @@
   - jbkjb
   - jhkjhkjh
 
-### SDGs We Addressed
+### $${\color{green}SDGs \space We \space Addressed}$$
 - **11** Sustainable Cities and Communities
 - **13** Climate action
 - **15** Life On Land
