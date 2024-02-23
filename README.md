@@ -9,7 +9,7 @@
 - **11** Sustainable Cities and Communities
 - **13** Climate action
 - **15** Life On Land
-- 
+ 
 ### SDGs We Addressed
 <details open><summary><b>Sustainable Cities and Communities (11)</b></summary>
   hghfsabfrytghbnv bhhfgvbvkhkhv
