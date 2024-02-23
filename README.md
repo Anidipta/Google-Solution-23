@@ -1,11 +1,27 @@
 # Google-Solution-23
 
-### Our aim
+### Our Theme
   - kjlkj
   - jbkjb
   - jhkjhkjh
 
-### Breif approach
+### SDGs We Addressed
+- **11** Sustainable Cities and Communities
+- **13** Climate action
+- **15** Life On Land
+
+### SDGs We Addressed
+<details open><summary><b>Sustainable Cities and Communities (11)</b></summary>
+  hghfsabfrytghbnv bhhfgvbvkhkhv
+</details>
+<details><summary><b>Climate action (13)</b></summary>
+  hfljsdfkjdkfnjn jfhfjasfj
+</details>
+<details><summary><b>Life On Land (15)</b></summary>
+  jhfasjsfv falkjfljf fjdshfugsb
+</details>
+
+### Breif Approach
 - jhkjhg
 - jfjhkjh
 
