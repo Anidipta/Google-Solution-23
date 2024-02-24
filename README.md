@@ -21,7 +21,7 @@
   jhfasjsfv falkjfljf fjdshfugsb
 </details>
 
-### Breif Approach
+### Brief Approach
 - jhkjhg
 - jfjhkjh
 
@@ -33,4 +33,4 @@ Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
 - Anidipta Pal
 - Ankana Datta
 - Anjishnu Mukherjee
-- Ananyo Dashgupta
+- Ananyo Dasgupta
