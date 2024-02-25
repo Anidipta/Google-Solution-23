@@ -59,20 +59,20 @@ In our project, we leverage image processing technology to monitor and assess th
   7. **Testing and Validation:** Ensure functionality and performance meet expectations.
   8. **Documentation:** Document the process, results, and recommendations.
 
-  Approach of code
+  - Approach of code
 
-- Technology and architectures used-
-- Teasorflow 
-- Keras
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Streamlit
-- VGG16
-- InceptionV3
-- Boosting algo
-- OpenCV
+  1. Technology and architectures used-
+  2. Teasorflow 
+  3.  Keras
+  4. Numpy
+  5. Pandas
+  6. Matplotlib
+  7. Seaborn
+  8. Streamlit
+  9. VGG16
+  10. InceptionV3
+  11. Boosting algo
+  12. OpenCV
 
 This approach ensures efficient deployment of optimized CNN models, facilitating seamless image processing tasks for end-users.
 
