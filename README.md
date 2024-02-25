@@ -28,11 +28,6 @@ Illustrative city and regional success stories demonstrate the impact of measure
 Conclusion:
 As we strive for clean air for future generations, AQI's significance in fostering global collaboration and prioritizing public health cannot be overstated, ensuring a healthier, more sustainable world.
 
-### ${\color{green}SDGs \space We \space Addressed}$
-- **11** Sustainable Cities and Communities
-- **13** Climate action
-- **15** Life On Land
- 
 ### SDGs We Addressed
 <details open><summary><b>Sustainable Cities and Communities (11)</b></summary>
   
