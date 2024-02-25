@@ -57,8 +57,8 @@ In our project, we leverage image processing technology to monitor and assess th
 
  - **Approach of code:**
 
-  1. Teasorflow 
-  2.  Keras
+  1. Tensorflow 
+  2. Keras
   3. Numpy
   4. Pandas
   5. Matplotlib
