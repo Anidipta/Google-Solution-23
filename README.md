@@ -46,7 +46,7 @@ The Sustainable Development Goal (SDG) 11 aims to make cities and human settleme
 In our project, we leverage image processing technology to monitor and assess the impact of human activities on terrestrial ecosystems, aligning with SDG 15's goals of sustainable land use and biodiversity preservation.
 </details>
 
-<details><summary><b>### Brief Approach</summary>
+<details><summary><b># Brief Approach</summary>
 - **Objective:** Deploy optimized CNN models for image processing using Streamlit, fine-tuning them with boosting algorithms, and specifying hyperparameters like Adam learning rate as 0.001.
 
 - **Steps:**
@@ -96,7 +96,7 @@ Tuning these hyperparameters is crucial for R-CNN performance. Manual tuning and
    
      
 
-### Resources
+<details><summary><b># Resources</summary>
 * **Dataset used:** Air Pollution Image Dataset from India and Nepal. 
 Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
 
