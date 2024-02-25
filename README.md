@@ -46,7 +46,7 @@ The Sustainable Development Goal (SDG) 11 aims to make cities and human settleme
 In our project, we leverage image processing technology to monitor and assess the impact of human activities on terrestrial ecosystems, aligning with SDG 15's goals of sustainable land use and biodiversity preservation.
 </details>
 
-<details><summary><b># Brief Approach</summary>
+### Brief Approach
 - **Objective:** Deploy optimized CNN models for image processing using Streamlit, fine-tuning them with boosting algorithms, and specifying hyperparameters like Adam learning rate as 0.001.
 
 - **Steps:**
