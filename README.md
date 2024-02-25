@@ -75,7 +75,7 @@ In our project, we leverage image processing technology to monitor and assess th
   11. OpenCV
 
 This approach ensures efficient deployment of optimized CNN models, facilitating seamless image processing tasks for end-users.
-- **information about the approach**
+- **Information about the Approach**
   - **Air Polution**
      High air pollution levels, indicated by elevated Air Quality Index (AQI), can adversely affect vegetation, including lichens. Lichens are particularly sensitive to air quality changes. Increased pollutants like sulfur dioxide and nitrogen oxides can harm lichens, leading to reduced diversity and abundance. Monitoring AQI is crucial for understanding and mitigating the impact of air pollution on ecosystems. 
 VGG16 (a convolutional neural network) and R-CNN (Region-based Convolutional Neural Network) can be employed in the study of Air Quality Index (AQI) through image analysis. VGG16 can help with feature extraction from air quality images, while R-CNN can identify and classify regions of interest within those images, such as pollution sources or affected areas. This integration of deep learning models facilitates automated analysis, aiding in the assessment and prediction of AQI based on visual data.
