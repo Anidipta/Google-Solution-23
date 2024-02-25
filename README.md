@@ -42,7 +42,8 @@ The Sustainable Development Goal (SDG) 11 aims to make cities and human settleme
   SDG 13 focuses on urgent action to combat climate change and its impacts. It emphasizes the need for countries to strengthen resilience and adaptive capacity to climate-related disasters. This goal also highlights the importance of integrating climate change measures into national policies, strategies, and planning.
 </details>
 <details><summary><b>Life On Land (15)</b></summary>
-  SDG 15 aims to protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and biodiversity loss. This goal recognizes the importance of terrestrial ecosystems for biodiversity, climate regulation, and human well-being. 
+  SDG 15, Life on Land, aims to protect, restore, and promote sustainable use of terrestrial ecosystems, emphasizing the importance of biodiversity conservation and combating land degradation.
+In our project, we leverage image processing technology to monitor and assess the impact of human activities on terrestrial ecosystems, aligning with SDG 15's goals of sustainable land use and biodiversity preservation.
 </details>
 
 ### Brief Approach
