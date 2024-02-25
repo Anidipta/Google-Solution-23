@@ -59,7 +59,7 @@ In our project, we leverage image processing technology to monitor and assess th
   7. **Testing and Validation:** Ensure functionality and performance meet expectations.
   8. **Documentation:** Document the process, results, and recommendations.
 
-  - Approach of code
+ - Approach of code
 
   1. Technology and architectures used-
   2. Teasorflow 
