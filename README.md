@@ -47,8 +47,34 @@ In our project, we leverage image processing technology to monitor and assess th
 </details>
 
 ### Brief Approach
-- jhkjhg
-- jfjhkjh
+- **Objective:** Deploy optimized CNN models for image processing using Streamlit, fine-tuning them with boosting algorithms, and specifying hyperparameters like Adam learning rate as 0.001.
+
+- **Steps:**
+  1. **Dataset Preparation:** Gather and preprocess a diverse image dataset.
+  2. **Model Selection:** Choose InceptionV3, RCNNs, and VGG16.
+  3. **Model Training:** Implement and train models, fine-tuning with boosting algorithms.
+  4. **Performance Evaluation:** Assess model performance using standard metrics.
+  5. **Deployment with Streamlit:** Create a user-friendly web app interface.
+  6. **Integration:** Deploy fine-tuned models within the Streamlit app.
+  7. **Testing and Validation:** Ensure functionality and performance meet expectations.
+  8. **Documentation:** Document the process, results, and recommendations.
+
+  Approach of code
+
+- Technology and architectures used-
+- Teasorflow 
+- Keras
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
+- VGG16
+- InceptionV3
+- Boosting algo
+- OpenCV
+
+This approach ensures efficient deployment of optimized CNN models, facilitating seamless image processing tasks for end-users.
 
 ### Resources
 * **Dataset used:** Air Pollution Image Dataset from India and Nepal. 
