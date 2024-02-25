@@ -75,6 +75,26 @@ In our project, we leverage image processing technology to monitor and assess th
   11. OpenCV
 
 This approach ensures efficient deployment of optimized CNN models, facilitating seamless image processing tasks for end-users.
+- ** information about the approach **
+  <details open><summary><b> RCNN and it's Hyper parameters </b></summary>
+    High air pollution levels, indicated by elevated Air Quality Index (AQI), can adversely affect vegetation, including lichens. Lichens are particularly sensitive to air quality changes. Increased pollutants like sulfur dioxide and nitrogen oxides can harm lichens, leading to reduced diversity and abundance. Monitoring AQI is crucial for understanding and mitigating the impact of air pollution on ecosystems. 
+VGG16 (a convolutional neural network) and R-CNN (Region-based Convolutional Neural Network) can be employed in the study of Air Quality Index (AQI) through image analysis. VGG16 can help with feature extraction from air quality images, while R-CNN can identify and classify regions of interest within those images, such as pollution sources or affected areas. This integration of deep learning models facilitates automated analysis, aiding in the assessment and prediction of AQI based on visual data.
+  <details open><summary><b> VGG16 </b></summary>
+    1. *Architecture*: VGG16's uniform architecture, with 3x3 filters in convolutional layers and 2x2 pooling layers, stands out for its simplicity and clarity.
+    2. *Depth*: While relatively shallow compared to modern architectures, VGG16's 16 layers contributed to its computational cost and effectiveness.
+    3. *Performance*: VGG16 achieved state-of-the-art results on ImageNet, demonstrating the power of its design and depth.
+    4. *Legacy*: VGG16 has influenced subsequent architectures and remains a reference point in understanding convolutional neural network design.
+   <details open><summary><b> RCNN and it's Hyper parameters </b></summary>
+     1.	Image Preprocessing: Parameters for resizing, normalization, and preparing images for CNN input.
+	    2.	Region Proposal: Parameters for generating proposals, like proposal number and overlap threshold.
+	    3.	CNN Architecture: Parameters for CNN design, including layer count, filter size, and channel number.
+	    4.	Training: Parameters for training, such as learning rate, batch size, and epochs.
+	    5.	Region Pooling: Parameters for feature extraction from proposals, like pooling region size.
+	    6.	Loss Function: Parameters for defining error weights in the loss function.
+
+Tuning these hyperparameters is crucial for R-CNN performance. Manual tuning and automated techniques are used.
+   
+     
 
 ### Resources
 * **Dataset used:** Air Pollution Image Dataset from India and Nepal. 
